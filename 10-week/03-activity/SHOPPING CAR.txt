@@ -1,0 +1,9 @@
+SHOPPING CAR
+
+SERGIO LUIS ANGEL ROMERO 
+
+
+
+REPO BACKEND:https://github.com/sangel3232/shopping-car/tree/BACKEND
+
+REPO FRONTEND:https://github.com/sangel3232/shopping-car/tree/FRONTEND
